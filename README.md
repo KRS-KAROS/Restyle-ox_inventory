@@ -4,4 +4,4 @@
 
 ## INSTALLATION
 
-* web/build/assets
+* ox_inventory/web/build/assets
